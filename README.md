@@ -1,7 +1,7 @@
 # SPC
 Neste repositório estão concentrados minhas soluções para alguns problemas cobrados na disciplina Solução de Problemas Computacionais da UFMG. Nesta disciplina utilizamos problemas dos sites: 
-  SPOJ,
   
+  SPOJ,
   
   SPOJ Brasil,
   
