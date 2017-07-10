@@ -1,15 +1,15 @@
 # SPC
 Neste repositório estão concentrados minhas soluções para alguns problemas cobrados na disciplina Solução de Problemas Computacionais da UFMG. Nesta disciplina utilizamos problemas dos sites: 
   
-  SPOJ,
+ * SPOJ,
   
-  SPOJ Brasil,
+ * SPOJ Brasil,
   
-  CodeForce,
+ * CodeForce,
   
-  URI Online Judge
+ * URI Online Judge
   
-  UVa Online Judge
+ * UVa Online Judge
 
 
 O curso foi dividido em 12 semanas, e a cada semana era proposto uma lista de problemas dois quais deveriamos resolver 5. Os roteiros de problemas podem ser acessados neste link: http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros
