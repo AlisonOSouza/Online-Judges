@@ -13,6 +13,7 @@ Neste repositório estão concentrados minhas soluções para alguns problemas c
 
 
 O curso foi dividido em 12 semanas, e a cada semana era proposto uma lista de problemas dois quais deveriamos resolver 5. Os roteiros de problemas podem ser acessados neste link: http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros
+
 O conteúdo de cada semana foi distribuído da seguinte forma:
 
 
