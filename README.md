@@ -44,13 +44,13 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 --------------------------------------------------------------------------------------
 ## Lista de Problemas Resolvidos:  
 
-* SPOJ: (BR e internacional)    
-	ALIENSMG  		CANDY  
-	BAPOSTAS  		FINDSR  
-	BICHO  			HANGOVER  
-	BIT  	  		MICEMAZE  
-	BRACELMG  		NHAY  
-	CAIXAMG  		SUMFOUR  
+* SPOJ BR:     
+	ALIENSMG  		
+	BAPOSTAS  		
+	BICHO  			
+	BIT  	  		
+	BRACELMG  		
+	CAIXAMG  		
 	CONTAGEM  
 	DUENDE  
 	DVORONOI  
@@ -83,6 +83,14 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	SOMA  
 	TENTA  
 
+* SPOJ Internacional:  
+	CANDY  
+	FINDSR  
+	HANGOVER  
+	MICEMAZE  
+	NHAY  
+	SUMFOUR  
+  
 * UVa:  
 	100  
 	118  
