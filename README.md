@@ -45,12 +45,12 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 ## Lista de Problemas Resolvidos:  
 
 * SPOJ BR:     
-	ALIENSMG  		
-	BAPOSTAS  		
-	BICHO  			
-	BIT  	  		
-	BRACELMG  		
-	CAIXAMG  		
+	ALIENSMG  
+	BAPOSTAS  
+	BICHO  
+	BIT  
+	BRACELMG  
+	CAIXAMG  
 	CONTAGEM  
 	DUENDE  
 	DVORONOI  
