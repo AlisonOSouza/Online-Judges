@@ -1,47 +1,6 @@
-# SPC
-Neste repositório estão concentrados minhas soluções para alguns problemas cobrados na disciplina Solução de Problemas Computacionais da UFMG. Nesta disciplina utilizamos problemas dos sites: 
-  
- * SPOJ,
-  
- * SPOJ Brasil,
-  
- * CodeForce,
-  
- * URI Online Judge
-  
- * UVa Online Judge
+# Online Judges
+Neste repositório estão concentrados minhas soluções para alguns problemas solucionados nas disciplinas Solução de Problemas Computacionais e Programação Competitiva da UFMG. 
 
-
-O curso foi dividido em 12 semanas, e a cada semana era proposto uma lista de problemas dois quais deveriamos resolver 5. Os roteiros de problemas podem ser acessados neste link: http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros
-
-O conteúdo de cada semana foi distribuído da seguinte forma:
-
-
- * Semana 1: Introdução: Problemas simples
-  
- * Semana 2: Estruturas de dados: STL, pilhas, filas, conjuntos, etc., e busca binária em vetores 
-  
- * Semana 3: Paradigmas de resolução de problemas: Divisão e conquista, Backtracking, Força bruta
-  
- * Semana 4: Algoritmos em Grafos: Busca em Profundidade, Busca em Largura, Ordenação Topológica
-  
- * Semana 5: Algoritmos em Grafos: Caminho mínimo, Árvore Geradora Mínima 
-  
- * Semana 6: Teoria dos Grafos: Fluxo Máximo, Corte Mínimo
-  
- * Semana 7: Paradigmas de resolução de problemas: Programação Dinâmica, Algoritmos Gulosos
-  
- * Semana 8: Programação Dinâmica
-  
- * Semana 9: Strings: String matching, palíndromos 
-  
- * Semana 10: Teoria dos Números e Combinatória: Aritmética modular, Equações diofantinas, MMC, MDC, Algoritmo Euclidiano
-  
- * Semana 11: Geometria Computacional: Retas, segmentos, interseção 
-  
- * Semana 12: Geometria Computacional: Convex Hull, Polígonos e Círculos
-  
---------------------------------------------------------------------------------------
 ## Lista de Problemas Resolvidos:  
 
 * SPOJ BR:     
@@ -51,6 +10,7 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	BIT  
 	BRACELMG  
 	CAIXAMG  
+	CERCAMG  
 	CONTAGEM  
 	DUENDE  
 	DVORONOI  
@@ -82,6 +42,7 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	QUADRAD2  
 	SOMA  
 	TENTA  
+	TIROS  
 
 * SPOJ Internacional:  
 	CANDY  
@@ -89,6 +50,7 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	HANGOVER  
 	MICEMAZE  
 	NHAY  
+	OFFSIDE  
 	SUMFOUR  
   
 * UVa:  
@@ -98,19 +60,28 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	151  
 	201  
 	272  
+	315  
 	384  
 	445  
 	492  
 	637  
+	1347  
 	10004  
-	10034  
+	10034 
+	10065  
+	10072  
 	10079  
 	10161  
+	10179  
 	10193  
-	10221  
+	10221 - Satellites  
 	10310  
+	10539  
 	10583  
 	11152  
+	11418  
+	12125  
+	12357  
 
 * Codeforces:  
 	18A - Triangle   
@@ -122,12 +93,21 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 * URI:  
 	1022 - TDA Racional  
 	1028 - Figurinhas  
+	1039 - 
 	1100 - Movimentos do Cavalo  
 	1148 - Países em Guerra  
+	1207 - 
 	1244 - Ordenação por Tamanho  
-	1362	Minha Camiseta Me Serve  
+	1295 - 
+	1362 - Minha Camiseta Me Serve  
+	1365 - 
+	1373 - 
+	1394 - 
+	1464 - 
+	1485 - 
 	1514 - Competição  
 	1559 - 2048  
+	1560 - 
 	1732 - Abelha Maja  
 	1905 - Polícia e Ladrão  
 	1914 - De Quem é a Vez?  
@@ -135,3 +115,15 @@ O conteúdo de cada semana foi distribuído da seguinte forma:
 	2132 - Não é Mais Um Joguinho Canadense!  
 	2355 - Brasil e Alemanha  
 	2356 - Bactéria I  
+
+* PKU:
+	1410  
+
+* TIMUS:
+	1052  
+	1084  
+	1588  
+
+* KATTIS:
+	elementarymath - Elementary Math
+	bookclub - Book Club
